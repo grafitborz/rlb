@@ -1,5 +1,7 @@
 {
+
    "defaultInvoices": [{
+       "1": {
         "name" : "John",
         "id" : 1,
         "invoiceNumber" : "AB-2021-05",
@@ -34,7 +36,9 @@
             "customerZip" : "8000",
             "customerCity" : "Veszprém-Kisszőllős",
             "customerStreet" : "Példa utca 44"
-        }],
+        }]
+       },
+       "2": {
         "name" : "Jill",
         "id" : 2,
         "invoiceNumber" : "AB-2021-05",
@@ -69,7 +73,9 @@
             "customerZip" : "8000",
             "customerCity" : "Veszprém-Kisszőllős",
             "customerStreet" : "Példa utca 44"
-        }],
+        }]
+       },
+       "3": {
         "name" : "Jack",
         "id" : 3,
         "invoiceNumber" : "AB-2021-05",
@@ -105,6 +111,7 @@
             "customerCity" : "Veszprém-Kisszőllős",
             "customerStreet" : "Példa utca 44"
         }]
+       }
     }
 ]
 }
