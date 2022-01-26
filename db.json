@@ -27,7 +27,7 @@
         "invoiceLastEdited" : "2021 03. 10."
         "invoicePaymentDeadline" : "???"
         "companies" : [{
-            "id" : 1"
+            "id" : 1,
             "customerName" : "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz"
             "customerTaxNumber" : "375622431-1-21"
             "customerCountry" : "HU"
