@@ -1,5 +1,5 @@
 {
-    defaultInvoices: [{
+   "defaultInvoices": [{
         "name" : "John"
         "id" : 1,
         "invoiceNumber" : "AB-2021-05"
