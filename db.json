@@ -14,7 +14,7 @@
         "invoiceItemClass" : "invoiceItemClass"
         "invoiceItem" : "<span class=\"cb-yellow-color font-weight-bold\">invoice</span> Példa1"
         "invoiceItemLabel" : "invoice Példa1"
-        "edit" : false
+        "edit" : false,
         "invoiceItemQuantity" : ""
         "invoiceItemQuantityType" : ""
         "invoiceItemNetPrice" : ""
