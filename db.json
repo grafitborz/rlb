@@ -70,7 +70,7 @@
         "actualMonthlyInvoicesNumber": "522",
         "actualMonthlyGrossRevenue": "55600900",
         "totalReceivables": "250000",
-        "overDuesReceivables": "130000"
+        "overduesReceivables": "130000"
         }]
 
 }
