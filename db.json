@@ -1,72 +1,77 @@
 {
 
-   "defaultInvoices": [{
-        "id" : 1,
-        "invoiceNumber" : "AB-2021-05",
-        "invoiceDate" : 1324339200000,
-        "invoiceDeadlineDate" : 1456339200000,
-        "netPrice" : "99 999 999",
-        "grossPrice" : "99 999 999",
-        "selected" : false,
-        "isActive" : false,
-        "invoiceID" : 1,
-        "companies" : [{
-            "id" : 1,
-            "customerName" : "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz",
-            "customerTaxNumber" : "375622431-1-21",
-            "customerCountry" : "HU",
-            "customerZip" : "8000",
-            "customerCity" : "Veszprém-Kisszőllős",
-            "customerStreet" : "Példa utca 44"
-        }]
-       },
-       {
-        "id" : 2,
-        "invoiceNumber" : "BK-20221-10",
-        "invoiceDate" : "2021. 10. 21.",
-        "invoiceDeadlineDate" : "2021. 11. 21.",
-        "netPrice" : "89 009 999",
-        "grossPrice" : "979 000",
-        "selected" : false,
-        "isActive" : false,
-        "invoiceID" : 1,
-        "companies" : [{
-            "id" : 1,
-            "customerName" : "Budapesti Közlekedési Vállalat",
-            "customerTaxNumber" : "375622431-1-21",
-            "customerCountry" : "HU",
-            "customerZip" : "8000",
-            "customerCity" : "Budapesti",
-            "customerStreet" : "Példa utca 44"
-        }]
-       },
-      {
-        "id" : 3,
-        "invoiceNumber" : "dfgd5475z",
-        "invoiceDate" : "2021. 10. 20.",
-        "invoiceDeadlineDate" : "2020. 02. 12.",
-        "netPrice" : "63 800",
-        "grossPrice" : "100 535",
-        "selected" : false,
-        "isActive" : false,
-        "invoiceID" : 1,
-        "companies" : [{
-            "id" : 1,
-            "customerName" : "Hajdúböszörményi Kistérségi Ktsz",
-            "customerTaxNumber" : "375622431-1-21",
-            "customerCountry" : "HU",
-            "customerZip" : "8000",
-            "customerCity" : "Hajdúböszörményi",
-            "customerStreet" : "Példa utca 44"
-        }]
-       }
-],
+    "defaultInvoices": [{
+            "id": 1,
+            "invoiceNumber": "AB-2021-05",
+            "invoiceDate": 1324339200000,
+            "invoiceDeadlineDate": 1456339200000,
+            "netPrice": "99 999 999",
+            "grossPrice": "99 999 999",
+            "selected": false,
+            "isActive": false,
+            "invoiceID": 1,
+            "companies": [{
+                "id": 1,
+                "customerName": "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz",
+                "customerTaxNumber": "375622431-1-21",
+                "customerCountry": "HU",
+                "customerZip": "8000",
+                "customerCity": "Veszprém-Kisszőllős",
+                "customerStreet": "Példa utca 44"
+            }],
 
-  "profile": [
-    {
-      "id": 1,
-      "email": "pelda.peter@gmail.com",
-      "companyName": "Nagyon Hosszú példa vállalkozás.kft."
+        },
+        {
+            "id": 2,
+            "invoiceNumber": "BK-20221-10",
+            "invoiceDate": "2021. 10. 21.",
+            "invoiceDeadlineDate": "2021. 11. 21.",
+            "netPrice": "89 009 999",
+            "grossPrice": "979 000",
+            "selected": false,
+            "isActive": false,
+            "invoiceID": 1,
+            "companies": [{
+                "id": 1,
+                "customerName": "Budapesti Közlekedési Vállalat",
+                "customerTaxNumber": "375622431-1-21",
+                "customerCountry": "HU",
+                "customerZip": "8000",
+                "customerCity": "Budapesti",
+                "customerStreet": "Példa utca 44"
+            }]
+        },
+        {
+            "id": 3,
+            "invoiceNumber": "dfgd5475z",
+            "invoiceDate": "2021. 10. 20.",
+            "invoiceDeadlineDate": "2020. 02. 12.",
+            "netPrice": "63 800",
+            "grossPrice": "100 535",
+            "selected": false,
+            "isActive": false,
+            "invoiceID": 1,
+            "companies": [{
+                "id": 1,
+                "customerName": "Hajdúböszörményi Kistérségi Ktsz",
+                "customerTaxNumber": "375622431-1-21",
+                "customerCountry": "HU",
+                "customerZip": "8000",
+                "customerCity": "Hajdúböszörményi",
+                "customerStreet": "Példa utca 44"
+            }]
+        }
+    ],
+    "profile": [{
+        "id": 1,
+        "email": "pelda.peter@gmail.com",
+        "companyName": "Nagyon Hosszú példa vállalkozás.kft."
+    }],
+    "invoiceStats": {
+        "actualMonthlyInvoicesNumber": "522",
+        "actualMonthlyGrossRevenue": "55600900",
+        "totalReceivables": "250000",
+        "overDuesReceivables": "130000"
+    }    
 
-}]
 }
