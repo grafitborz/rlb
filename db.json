@@ -1,7 +1,6 @@
 {
 
-   "defaultInvoices": [{   
-        "name" : "John",
+   "defaultInvoices": [{       
         "id" : 1,
         "invoiceNumber" : "AB-2021-05",
         "invoiceDate" : "2021. 10. 20.",
@@ -9,24 +8,8 @@
         "netPrice" : "99 999 999",
         "grossPrice" : "99 999 999",
         "selected" : false,
-        "isActive" : false,
-        "isVisible" : false,
-        "invoiceID" : 1,
-        "invoiceItemClass" : "invoiceItemClass",
-        "invoiceItem" : "<span class=\"cb-yellow-color font-weight-bold\">invoice</span> Példa1",
-        "invoiceItemLabel" : "invoice Példa1",
-        "edit" : false,
-        "invoiceItemQuantity" : "",
-        "invoiceItemQuantityType" : "",
-        "invoiceItemNetPrice" : "",
-        "invoiceItemGrossPrice" : "",
-        "invoiceItemVatKey" : "",
-        "invoiceItemCurrency" : "HUF",
-        "invoiceItemVAT" : "",
-        "invoiceItemVATAmount" : "",
-        "invoiceItemChosen" : "",
-        "invoiceLastEdited" : "2021 03. 10.",
-        "invoicePaymentDeadline" : "???",
+        "isActive" : false,        
+        "invoiceID" : 1,                
         "companies" : [{
             "id" : 1,
             "customerName" : "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz",
@@ -37,87 +20,53 @@
             "customerStreet" : "Példa utca 44"
         }]
        },
-       {       
-        "name" : "Jill",
+       {        
         "id" : 2,
-        "invoiceNumber" : "AB-2021-05",
-        "invoiceDate" : "2021. 10. 20.",
-        "invoiceDeadlineDate" : "2021. 11. 20.",
-        "netPrice" : "99 999 999",
-        "grossPrice" : "99 999 999",
+        "invoiceNumber" : "BK-20221-10",
+        "invoiceDate" : "2021. 10. 21.",
+        "invoiceDeadlineDate" : "2021. 11. 21.",
+        "netPrice" : "89 009 999",
+        "grossPrice" : "979 000",
         "selected" : false,
-        "isActive" : false,
-        "isVisible" : false,
-        "invoiceID" : 2,
-        "invoiceItemClass" : "invoiceItemClass",
-        "invoiceItem" : "<span class=\"cb-yellow-color font-weight-bold\">invoice</span> Példa1",
-        "invoiceItemLabel" : "invoice Példa1",
-        "edit" : false,
-        "invoiceItemQuantity" : "",
-        "invoiceItemQuantityType" : "",
-        "invoiceItemNetPrice" : "",
-        "invoiceItemGrossPrice" : "",
-        "invoiceItemVatKey" : "",
-        "invoiceItemCurrency" : "HUF",
-        "invoiceItemVAT" : "",
-        "invoiceItemVATAmount" : "",
-        "invoiceItemChosen" : "",
-        "invoiceLastEdited" : "2021 03. 10.",
-        "invoicePaymentDeadline" : "???",
+        "isActive" : false,        
+        "invoiceID" : 1,                
         "companies" : [{
-            "id" : 2,
-            "customerName" : "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz",
+            "id" : 1,
+            "customerName" : "Budapesti Közlekedési Vállalat",
             "customerTaxNumber" : "375622431-1-21",
             "customerCountry" : "HU",
             "customerZip" : "8000",
-            "customerCity" : "Veszprém-Kisszőllős",
+            "customerCity" : "Budapesti",
             "customerStreet" : "Példa utca 44"
         }]
        },
-      {
-        "name" : "Jack",
+      {        
         "id" : 3,
-        "invoiceNumber" : "AB-2021-05",
+        "invoiceNumber" : "dfgd5475z",
         "invoiceDate" : "2021. 10. 20.",
-        "invoiceDeadlineDate" : "2021. 11. 20.",
-        "netPrice" : "99 999 999",
-        "grossPrice" : "99 999 999",
+        "invoiceDeadlineDate" : "2020. 02. 12.",
+        "netPrice" : "63 800",
+        "grossPrice" : "100 535",
         "selected" : false,
-        "isActive" : false,
-        "isVisible" : false,
-        "invoiceID" : 3,
-        "invoiceItemClass" : "invoiceItemClass",
-        "invoiceItem" : "<span class=\"cb-yellow-color font-weight-bold\">invoice</span> Példa1",
-        "invoiceItemLabel" : "invoice Példa1",
-        "edit" : false,
-        "invoiceItemQuantity" : "",
-        "invoiceItemQuantityType" : "",
-        "invoiceItemNetPrice" : "",
-        "invoiceItemGrossPrice" : "",
-        "invoiceItemVatKey" : "",
-        "invoiceItemCurrency" : "HUF",
-        "invoiceItemVAT" : "",
-        "invoiceItemVATAmount" : "",
-        "invoiceItemChosen" : "",
-        "invoiceLastEdited" : "2021 03. 10.",
-        "invoicePaymentDeadline" : "???",
+        "isActive" : false,        
+        "invoiceID" : 1,                
         "companies" : [{
-            "id" : 3,
-            "customerName" : "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz",
+            "id" : 1,
+            "customerName" : "Hajdúböszörményi Kistérségi Ktsz",
             "customerTaxNumber" : "375622431-1-21",
             "customerCountry" : "HU",
             "customerZip" : "8000",
-            "customerCity" : "Veszprém-Kisszőllős",
+            "customerCity" : "Hajdúböszörményi",
             "customerStreet" : "Példa utca 44"
         }]
-       }    
+       }
 ],
-   
+
   "profile": [
     {
       "id": 1,
       "email": "pelda.peter@gmail.com",
-      "companyName": "1Nyíregyházi Sajttermelő és Tejfeldolgozó Kft."
-    
+      "companyName": "Példa Péter Róbert"
+
 }]
 }
