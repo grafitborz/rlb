@@ -67,6 +67,7 @@
         "companyName": "Nagyon Hosszú példa vállalkozás.kft."
     }],
     "invoicestat":  [{
+        "id": 1,
         "actualMonthlyInvoicesNumber": "522",
         "actualMonthlyGrossRevenue": "55600900",
         "totalReceivables": "250000",
