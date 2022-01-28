@@ -1,15 +1,15 @@
 {
 
-   "defaultInvoices": [{       
+   "defaultInvoices": [{
         "id" : 1,
         "invoiceNumber" : "AB-2021-05",
-        "invoiceDate" : "2021. 10. 20.",
+        "invoiceDate" : 1324339200000,
         "invoiceDeadlineDate" : "2021. 11. 20.",
         "netPrice" : "99 999 999",
         "grossPrice" : "99 999 999",
         "selected" : false,
-        "isActive" : false,        
-        "invoiceID" : 1,                
+        "isActive" : false,
+        "invoiceID" : 1,
         "companies" : [{
             "id" : 1,
             "customerName" : "Veszprém-Kisszőllősi Hegyközségi Bortermelő Ktsz",
@@ -20,7 +20,7 @@
             "customerStreet" : "Példa utca 44"
         }]
        },
-       {        
+       {
         "id" : 2,
         "invoiceNumber" : "BK-20221-10",
         "invoiceDate" : "2021. 10. 21.",
@@ -28,8 +28,8 @@
         "netPrice" : "89 009 999",
         "grossPrice" : "979 000",
         "selected" : false,
-        "isActive" : false,        
-        "invoiceID" : 1,                
+        "isActive" : false,
+        "invoiceID" : 1,
         "companies" : [{
             "id" : 1,
             "customerName" : "Budapesti Közlekedési Vállalat",
@@ -40,7 +40,7 @@
             "customerStreet" : "Példa utca 44"
         }]
        },
-      {        
+      {
         "id" : 3,
         "invoiceNumber" : "dfgd5475z",
         "invoiceDate" : "2021. 10. 20.",
@@ -48,8 +48,8 @@
         "netPrice" : "63 800",
         "grossPrice" : "100 535",
         "selected" : false,
-        "isActive" : false,        
-        "invoiceID" : 1,                
+        "isActive" : false,
+        "invoiceID" : 1,
         "companies" : [{
             "id" : 1,
             "customerName" : "Hajdúböszörményi Kistérségi Ktsz",
