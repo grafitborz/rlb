@@ -4,7 +4,7 @@
         "id" : 1,
         "invoiceNumber" : "AB-2021-05",
         "invoiceDate" : 1324339200000,
-        "invoiceDeadlineDate" : 1450270423,
+        "invoiceDeadlineDate" : 1456339200000,
         "netPrice" : "99 999 999",
         "grossPrice" : "99 999 999",
         "selected" : false,
