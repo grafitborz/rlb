@@ -66,7 +66,7 @@
         "email": "pelda.peter@gmail.com",
         "companyName": "Nagyon Hosszú példa vállalkozás.kft."
     }],
-    "invoicestat": [{
+    "invoicestats": [{
         "id": 1,
         "actualMonthlyInvoicesNumber": "522",
         "actualMonthlyGrossRevenue": "55600900",
@@ -75,46 +75,46 @@
         "currencyType": "HUF"
     }],
     "monthstats": [{
-        "month1": [{
+        "month1": {
             "monthlyInvoicesNumber": 32,
             "overduesReceivables": null,
             "monthlyGrossRevenue": 100000
-        }],
-        "month2": [{
+        },
+        "month2": {
             "monthlyInvoicesNumber": 32,
             "overduesReceivables": 100000,
             "monthlyGrossRevenue": null
-        }],
-        "month3": [{
+        },
+        "month3": {
             "monthlyInvoicesNumber": 1,
             "overduesReceivables": null,
             "monthlyGrossRevenue": 100000
-        }],
-        "month4": [{
+        },
+        "month4": {
             "monthlyInvoicesNumber": 2,
             "overduesReceivables": null,
             "monthlyGrossRevenue": 100000
-        }],
-        "month5": [{
+        },
+        "month5": {
             "monthlyInvoicesNumber": 28,
             "overduesReceivables": null,
             "monthlyGrossRevenue": 430000
-        }],
-        "month6": [{
+        },
+        "month6": {
             "monthlyInvoicesNumber": 54,
             "overduesReceivables": 120000,
             "monthlyGrossRevenue": 430000
-        }],
-        "month7": [{
+        },
+        "month7": {
             "monthlyInvoicesNumber": 102,
             "overduesReceivables": null,
             "monthlyGrossRevenue": 1532000
-        }],
-        "month8": [{
+        },
+        "month8": {
             "monthlyInvoicesNumber": 32,
             "overduesReceivables": 130000,
             "monthlyGrossRevenue": 560000
-        }]
+        }
 
     }]
 
