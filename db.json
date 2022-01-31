@@ -98,7 +98,15 @@
             "monthlyGrossRevenue5": 430,
             "monthlyGrossRevenue6": 830,
             "monthlyGrossRevenue7": 1532,
-            "monthlyGrossRevenue8": 560
+            "monthlyGrossRevenue8": 560,
+            "monthname1": "dec",
+            "monthname2": "jan",
+            "monthname3": "feb",
+            "monthname4": "már",
+            "monthname5": "ápr",
+            "monthname6": "máj",
+            "monthname7": "jún",
+            "monthname8": "júl"
         }
 
     ]
