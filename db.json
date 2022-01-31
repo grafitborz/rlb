@@ -75,52 +75,31 @@
         "currencyType": "HUF"
     }],
     "monthstats": [{
-            "id": 1,
-            "monthlyInvoicesNumber": 32,
-            "overduesReceivables": null,
-            "monthlyGrossRevenue": 100000
-        },
-        {
-            "id": 2,
-            "monthlyInvoicesNumber": 32,
-            "overduesReceivables": 100000,
-            "monthlyGrossRevenue": null
-        },
-        {
-            "id": 3,
-            "monthlyInvoicesNumber": 1,
-            "overduesReceivables": null,
-            "monthlyGrossRevenue": 100000
-        },
-        {
-            "id": 4,
-            "monthlyInvoicesNumber": 2,
-            "overduesReceivables": null,
-            "monthlyGrossRevenue": 100000
-        },
-        {
-            "id": 5,
-            "monthlyInvoicesNumber": 28,
-            "overduesReceivables": null,
-            "monthlyGrossRevenue": 430000
-        },
-        {
-            "id": 6,
-            "monthlyInvoicesNumber": 54,
-            "overduesReceivables": 120000,
-            "monthlyGrossRevenue": 430000
-        },
-        {
-            "id": 7,
-            "monthlyInvoicesNumber": 102,
-            "overduesReceivables": null,
-            "monthlyGrossRevenue": 1532000
-        },
-        {
-            "id": 8,
-            "monthlyInvoicesNumber": 32,
-            "overduesReceivables": 130000,
-            "monthlyGrossRevenue": 560000
+            "monthlyInvoicesNumber1": 32,
+            "monthlyInvoicesNumber2": 73,
+            "monthlyInvoicesNumber3": 1,
+            "monthlyInvoicesNumber4": 2,
+            "monthlyInvoicesNumber5": 28,
+            "monthlyInvoicesNumber6": 54,
+            "monthlyInvoicesNumber7": 100,
+            "monthlyInvoicesNumber8": 32,
+            "overduesReceivables1": null,
+            "overduesReceivables2": null,
+            "overduesReceivables3": 100,
+            "overduesReceivables4": null,
+            "overduesReceivables5": null,
+            "overduesReceivables6": 120,
+            "overduesReceivables7": null,
+            "overduesReceivables8": 130,
+            "monthlyGrossRevenue1": 560,
+            "monthlyGrossRevenue2": 960,
+            "monthlyGrossRevenue3": 0,
+            "monthlyGrossRevenue4": 100,
+            "monthlyGrossRevenue5": 430,
+            "monthlyGrossRevenue6": 830,
+            "monthlyGrossRevenue7": 1532,
+            "monthlyGrossRevenue8": 560,
         }
+
     ]
 }
