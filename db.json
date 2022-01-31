@@ -66,7 +66,7 @@
         "email": "pelda.peter@gmail.com",
         "companyName": "Nagyon Hosszú példa vállalkozás.kft."
     }],
-    "invoicestat":  [{
+    "invoicestats":  [{
         "id": 1,
         "actualMonthlyInvoicesNumber": "522",
         "actualMonthlyGrossRevenue": "55600900",
