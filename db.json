@@ -72,8 +72,7 @@
         "actualMonthlyGrossRevenue": "55600900",
         "totalReceivables": "250000",
         "overduesReceivables": "130000",
-        "currencyType": "HUF" 
-        }]
+        "currencyType": "HUF",
         "monthstats": [{
             "month1": [{
                 "monthlyInvoicesNumber": 32,
@@ -115,6 +114,8 @@
                 "overduesReceivables": 130000,
                 "monthlyGrossRevenue": 560000
             }]
+            
+        }]
         }]
 
 }
