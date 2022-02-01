@@ -126,7 +126,12 @@
             "myCompanyMailingStreet": "postacím u. 15",
             "myCompanyEmail": "ceg1@mail.com",
             "myCompanyTel": "12364598",
-            "companyType": ""
+            "companyTypes": [{     
+                "companytype": "Zárthelyi részvénytársaság (ZRt)"
+              }, {      
+                "companytype": "Kölcsönös felelősségű társaság (Rt)"
+              }, ],
+              "activeCompanyType": null
 
         },
         {
@@ -145,7 +150,12 @@
             "myCompanyMailingStreet": "másik cím u. 30",
             "myCompanyEmail": "ceg2@mail.com",
             "myCompanyTel": "23658974",
-            "companyType": ""
+            "companyTypes": [{     
+                "companytype": "Zárthelyi részvénytársaság (ZRt)"
+              }, {      
+                "companytype": "Kölcsönös felelősségű társaság (Rt)"
+              }, ],
+              "activeCompanyType": null
         }
     ]
 }
