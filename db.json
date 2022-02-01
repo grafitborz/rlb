@@ -155,6 +155,7 @@
         }
     ],
     "accountsettings": [{
+        "selected": "",
         "oldpassword": "valami",
         "newpassword": "valami",
         "email": "valami@valami.hu",
