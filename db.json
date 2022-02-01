@@ -153,14 +153,5 @@
                 "companytype": "Kölcsönös felelősségű társaság (Rt)"
             }]            
         }
-    ],
-    "accountsettings": [{
-        "selected": "",
-        "oldpassword": "valami",
-        "newpassword": "valami",
-        "accountEmailplaceholder": "valami@valami.hu",
-        "email": "valamiSTORE@valami.hu",
-        "invoiceemail": "",
-        "acceptDelete": false
-    }]
+    ]
 }
