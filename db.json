@@ -110,40 +110,5 @@
             "monthname8": "júl"
         }
 
-    ],
-    "myCompanies": [{
-            "selected": "",
-            "myCompanyID": 1,
-            "myCompanyName": "Én vagyok  tulaj",
-            "myCompanyTAXID": "54322331-1-45",
-            "myCompanyEUTAXID": "445562385",
-            "myCompanyBankAccountNo": "HUF 1176311939880538",
-            "myBankName": "Raiffeisen Bank",
-            "myCompanyCity": "Budapest",
-            "myCompanyZip": "1123",
-            "myCompanyStreet": "Villásreggeli u. 3, 1.em.1.",
-            "myCompanyMailingCity": "Budapest",
-            "myCompanyMailingZip": "1885",
-            "myCompanyMailingStreet": "postacím u. 15",
-            "myCompanyEmail": "ceg1@mail.com",
-            "myCompanyTel": "12364598"
-        },
-        {
-            "selected": "",
-            "myCompanyID": 2,
-            "myCompanyName": "Cégem 2",
-            "myCompanyTAXID": "50000000-1-45",
-            "myCompanyEUTAXID": "440000000",
-            "myCompanyBankAccountNo": "HUF 1184311939880538",
-            "myBankName": "OTP Bank",
-            "myCompanyCity": "Nyregyháza Sóstó-Külterület",
-            "myCompanyZip": "8062",
-            "myCompanyStreet": "Kovács Béla u. 12.",
-            "myCompanyMailingCity": "Szeged",
-            "myCompanyMailingZip": "3056",
-            "myCompanyMailingStreet": "másik cím u. 30",
-            "myCompanyEmail": "ceg2@mail.com",
-            "myCompanyTel": "23658974"
-        }
     ]
 }
