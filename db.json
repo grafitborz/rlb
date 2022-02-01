@@ -75,41 +75,40 @@
         "currencyType": "HUF"
     }],
     "monthstats": [{
-            "monthlyInvoicesNumber1": 32,
-            "monthlyInvoicesNumber2": 73,
-            "monthlyInvoicesNumber3": 1,
-            "monthlyInvoicesNumber4": 2,
-            "monthlyInvoicesNumber5": 28,
-            "monthlyInvoicesNumber6": 54,
-            "monthlyInvoicesNumber7": 100,
-            "monthlyInvoicesNumber8": 32,
-            "overduesReceivables1": null,
-            "overduesReceivables2": null,
-            "overduesReceivables3": 100,
-            "overduesReceivables4": null,
-            "overduesReceivables5": null,
-            "overduesReceivables6": 120,
-            "overduesReceivables7": null,
-            "overduesReceivables8": 130,
-            "monthlyGrossRevenue1": 560,
-            "monthlyGrossRevenue2": 960,
-            "monthlyGrossRevenue3": 0,
-            "monthlyGrossRevenue4": 100,
-            "monthlyGrossRevenue5": 430,
-            "monthlyGrossRevenue6": 830,
-            "monthlyGrossRevenue7": 1532,
-            "monthlyGrossRevenue8": 560,
-            "year" : 2021,
-            "monthname1": "dec",
-            "monthname2": "jan",
-            "monthname3": "feb",
-            "monthname4": "már",
-            "monthname5": "ápr",
-            "monthname6": "máj",
-            "monthname7": "jún",
-            "monthname8": "júl"
-        }
-    ],
+        "monthlyInvoicesNumber1": 32,
+        "monthlyInvoicesNumber2": 73,
+        "monthlyInvoicesNumber3": 1,
+        "monthlyInvoicesNumber4": 2,
+        "monthlyInvoicesNumber5": 28,
+        "monthlyInvoicesNumber6": 54,
+        "monthlyInvoicesNumber7": 100,
+        "monthlyInvoicesNumber8": 32,
+        "overduesReceivables1": null,
+        "overduesReceivables2": null,
+        "overduesReceivables3": 100,
+        "overduesReceivables4": null,
+        "overduesReceivables5": null,
+        "overduesReceivables6": 120,
+        "overduesReceivables7": null,
+        "overduesReceivables8": 130,
+        "monthlyGrossRevenue1": 560,
+        "monthlyGrossRevenue2": 960,
+        "monthlyGrossRevenue3": 0,
+        "monthlyGrossRevenue4": 100,
+        "monthlyGrossRevenue5": 430,
+        "monthlyGrossRevenue6": 830,
+        "monthlyGrossRevenue7": 1532,
+        "monthlyGrossRevenue8": 560,
+        "year": 2021,
+        "monthname1": "dec",
+        "monthname2": "jan",
+        "monthname3": "feb",
+        "monthname4": "már",
+        "monthname5": "ápr",
+        "monthname6": "máj",
+        "monthname7": "jún",
+        "monthname8": "júl"
+    }],
     "myCompanies": [{
             "selected": "",
             "myCompanyID": 1,
@@ -128,11 +127,9 @@
             "myCompanyTel": "12364598",
             "companyTypes": [{
                 "companytype": "Zárthelyi részvénytársaság (ZRt)"
-              }, {
+            }, {
                 "companytype": "Kölcsönös felelősségű társaság (Rt)"
-              } ],
-              "activeCompanyType": null
-
+            }]
         },
         {
             "selected": "",
@@ -152,10 +149,9 @@
             "myCompanyTel": "23658974",
             "companyTypes": [{
                 "companytype": "Zárthelyi részvénytársaság (ZRt)"
-              }, {
+            }, {
                 "companytype": "Kölcsönös felelősségű társaság (Rt)"
-              } ],
-              "activeCompanyType": null
+            }]            
         }
     ]
 }
