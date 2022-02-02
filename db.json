@@ -64,7 +64,7 @@
     "profile": [{
         "id": 1,
         "email": "pelda.peter@gmail.com",
-        "companyName": "Nagyon Hosszú példa vállalkozás.kft."
+        "companyName": "Nagyon Hosszú példa Jsonból vállalkozás.kft."
     }],
     "invoicestats": [{
         "id": 1,
@@ -142,7 +142,6 @@
             "myCompanyMailingStreet": "másik cím u. 30",
             "myCompanyEmail": "ceg2@mail.com",
             "myCompanyTel": "23658974"
-            
         }
-    ]        
+     ]
 }
