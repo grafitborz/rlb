@@ -124,13 +124,7 @@
             "myCompanyMailingZip": "1885",
             "myCompanyMailingStreet": "postacím u. 15",
             "myCompanyEmail": "ceg1@mail.com",
-            "myCompanyTel": "12364598",
-            "companytype": [{
-                "kft": "Kölcsönös felelősségű kft (kft)",
-                "zrt": "Zárthelyi részvénytársaság",
-                "rt": "Részvénytársaság"
-               
-            }]
+            "myCompanyTel": "12364598"
         },
         {
             "selected": "",
@@ -147,13 +141,7 @@
             "myCompanyMailingZip": "3056",
             "myCompanyMailingStreet": "másik cím u. 30",
             "myCompanyEmail": "ceg2@mail.com",
-            "myCompanyTel": "23658974",
-            "companytype": [{
-                "kft": "Kölcsönös felelősségű kft (kft)",
-                "zrt": "Zárthelyi részvénytársaság",
-                "rt": "Részvénytársaság"
-               
-            }]
+            "myCompanyTel": "23658974"
 
         }
     ]
