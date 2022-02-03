@@ -109,16 +109,7 @@
         "monthname7": "jún",
         "monthname8": "júl"
     }],
-    "people": [{
-        "uuid": "58dc3c76c9205670b433e934",
-        "email": "dennisingram@cinesanct.com"
-      }, {
-        "uuid": "58dc3c76fb733629909f1ce8",
-        "email": "louhendricks@zytrac.com"
-      }, {
-        "uuid": "58dc3c762d5b19946660567e",
-        "email": "cindyholcomb@tourmania.com"
-      }],
+  
     "myCompanies": [{
             "selected": "",
             "companytype": [
