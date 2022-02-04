@@ -64,7 +64,11 @@
     "profile": [{
         "id": 1,
         "email": "pelda.peter@gmail.com",
-        "companyName": "Nagyon Hosszú példa Jsonból vállalkozás.kft."
+        "companyName": "Nagyon Hosszú példa Jsonból vállalkozás.kft.",
+        "oldpassword": "oldpassword",
+        "newpassword": "",
+        "accountemail": "valami@valami.hu",
+        "invoiceemail": ""
     }],
     "invoicestats": [{
         "id": 1,
