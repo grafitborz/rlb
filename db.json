@@ -18,7 +18,8 @@
                 "customerZip": "8000",
                 "customerCity": "Veszprém-Kisszőllős",
                 "customerStreet": "Példa utca 44"
-            }]
+            }],
+            "invoiceItemName": "Ingatlanbérbeadás"
         },
         {
             "id": 2,
@@ -38,7 +39,8 @@
                 "customerZip": "8000",
                 "customerCity": "Budapesti",
                 "customerStreet": "Példa utca 44"
-            }]
+            }],
+            "invoiceItemName": "Eszközbérlés"
         },
         {
             "id": 3,
@@ -58,7 +60,8 @@
                 "customerZip": "8000",
                 "customerCity": "Hajdúböszörményi",
                 "customerStreet": "Példa utca 44"
-            }]
+            }],
+            "invoiceItemName": "Tanácsadás"
         }
     ],
     "profile": [{
@@ -111,14 +114,15 @@
         "monthname7": "jún",
         "monthname8": "júl"
     }],
-     
+
+
     "myCompanies": [{
             "selected": "",
             "companytype": [
                 "Zárt körű részvénytársaság (Rt)",
                  "Kölcsönös felelősségű társaság (Kft)",
                  "Részvénytársaság (Rt)"
-                
+
             ],
             "myCompanyID": 1,
             "myCompanyName": "Én vagyok  tulaj",
@@ -141,7 +145,7 @@
                 "Zárt körű részvénytársaság (Rt)",
                  "Kölcsönös felelősségű társaság (Kft)",
                  "Részvénytársaság2(Rt2)"
-                
+
             ],
             "myCompanyID": 2,
             "myCompanyName": "Cégem 2",
@@ -157,7 +161,7 @@
             "myCompanyMailingStreet": "másik cím u. 30",
             "myCompanyEmail": "ceg2@mail.com",
             "myCompanyTel": "23658974"
-           
+
         }
     ]
 }
