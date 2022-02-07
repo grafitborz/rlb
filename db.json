@@ -1,5 +1,4 @@
 {
-
     "defaultInvoices": [{
             "id": 1,
             "invoiceNumber": "AB-2021-05",
@@ -20,9 +19,8 @@
                 "customerStreet": "Példa utca 44"
             }],
             "invoiceItemName": "Ingatlanbérbeadás",
-            "invoiceNote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus, tortor et feugiat fringilla, est metus luctus sem, eget aliquet nunc augue et neque. Proin ac lectus aliquet, pharetra sem non, ultricies nisi. Praesent blandit arcu eget laoreet consectetur. Sed nibh nunc, ullamcorper porttitor egestas vitae, bibendum vel justo. Nunc finibus vitae enim at semper. Fusce porta, magna vel volutpat dictum, justo eros rhoncus sem, feugiat molestie risus lorem non augue. Donec commodo sed eros sed posuere. Vivamus eget elit at magna gravida facilisis. Duis vitae tristique nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porta leo nec euismod elementum. Phasellus mattis eget purus a rutrum. Nulla non imperdiet nisi, sed scelerisque sem. "
-                
-            }]
+            "invoiceNote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus, tortor et feugiat fringilla, est metus luctus sem, eget aliquet nunc augue et neque. Proin ac lectus aliquet, pharetra sem non, ultricies nisi. Praesent blandit arcu eget laoreet consectetur. Sed nibh nunc, ullamcorper porttitor egestas vitae, bibendum vel justo. Nunc finibus vitae enim at semper. Fusce porta, magna vel volutpat dictum, justo eros rhoncus sem, feugiat molestie risus lorem non augue. Donec commodo sed eros sed posuere. Vivamus eget elit at magna gravida facilisis. Duis vitae tristique nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porta leo nec euismod elementum. Phasellus mattis eget purus a rutrum. Nulla non imperdiet nisi, sed scelerisque sem."
+
         },
         {
             "id": 2,
@@ -85,7 +83,7 @@
         "totalReceivables": "250000",
         "overduesReceivables": "130000",
         "currencyType": "HUF",
-         "monthlyInvoicesNumber1": 32,
+        "monthlyInvoicesNumber1": 32,
         "monthlyInvoicesNumber2": 73,
         "monthlyInvoicesNumber3": 1,
         "monthlyInvoicesNumber4": 2,
@@ -125,8 +123,8 @@
             "selected": "",
             "companytype": [
                 "Zárt körű részvénytársaság (Rt)",
-                 "Kölcsönös felelősségű társaság (Kft)",
-                 "Részvénytársaság (Rt)"
+                "Kölcsönös felelősségű társaság (Kft)",
+                "Részvénytársaság (Rt)"
 
             ],
             "myCompanyID": 1,
@@ -148,8 +146,8 @@
             "selected": "",
             "companytype": [
                 "Zárt körű részvénytársaság (Rt)",
-                 "Kölcsönös felelősségű társaság (Kft)",
-                 "Részvénytársaság2(Rt2)"
+                "Kölcsönös felelősségű társaság (Kft)",
+                "Részvénytársaság2(Rt2)"
 
             ],
             "myCompanyID": 2,
