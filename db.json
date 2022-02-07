@@ -19,7 +19,10 @@
                 "customerCity": "Veszprém-Kisszőllős",
                 "customerStreet": "Példa utca 44"
             }],
-            "invoiceItemName": "Ingatlanbérbeadás"
+            "invoiceItemName": "Ingatlanbérbeadás",
+            "invoiceNote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus, tortor et feugiat fringilla, est metus luctus sem, eget aliquet nunc augue et neque. Proin ac lectus aliquet, pharetra sem non, ultricies nisi. Praesent blandit arcu eget laoreet consectetur. Sed nibh nunc, ullamcorper porttitor egestas vitae, bibendum vel justo. Nunc finibus vitae enim at semper. Fusce porta, magna vel volutpat dictum, justo eros rhoncus sem, feugiat molestie risus lorem non augue. Donec commodo sed eros sed posuere. Vivamus eget elit at magna gravida facilisis. Duis vitae tristique nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porta leo nec euismod elementum. Phasellus mattis eget purus a rutrum. Nulla non imperdiet nisi, sed scelerisque sem. "
+                
+            }]
         },
         {
             "id": 2,
@@ -40,7 +43,8 @@
                 "customerCity": "Budapesti",
                 "customerStreet": "Példa utca 44"
             }],
-            "invoiceItemName": "Eszközbérlés"
+            "invoiceItemName": "Eszközbérlés",
+            "invoiceNote": "Quisque quis auctor eros, facilisis iaculis nunc. Maecenas sed elit at dui eleifend convallis. Integer sit amet quam accumsan orci ullamcorper fringilla. Nam nec tortor in dui suscipit pellentesque vitae eu quam. Aliquam sed diam erat. Fusce fringilla felis id lorem placerat commodo. Nulla vestibulum varius nulla feugiat bibendum. Quisque nisl ligula, dapibus eu quam a, eleifend pretium mauris. Donec elementum iaculis massa, at ultrices erat tempus ut. Duis et elit ut sapien lacinia placerat ut sit amet neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin at pulvinar est, vel varius ligula. "
         },
         {
             "id": 3,
@@ -61,7 +65,8 @@
                 "customerCity": "Hajdúböszörményi",
                 "customerStreet": "Példa utca 44"
             }],
-            "invoiceItemName": "Tanácsadás"
+            "invoiceItemName": "Tanácsadás",
+            "invoiceNote": "Sed venenatis malesuada sem eu posuere. Nullam venenatis magna nibh, sed tincidunt nunc rhoncus vel. Suspendisse ultricies nibh at diam feugiat finibus. Proin auctor non quam et laoreet. Etiam porttitor blandit neque et pulvinar. Donec vitae tristique sapien. Proin rutrum, ex ac mattis vulputate, lectus odio finibus magna, eu feugiat libero justo sed felis. Cras ut facilisis lectus. Nulla enim arcu, lacinia vitae fermentum eu, porttitor id eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla in turpis mattis, pretium nulla accumsan, luctus urna. Etiam maximus nisl ultrices quam posuere dapibus. Suspendisse a ligula risus. Aenean porta velit elit, sed lobortis tortor placerat vitae. "
         }
     ],
     "profile": [{
