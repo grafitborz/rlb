@@ -23,10 +23,9 @@
             "VAT": 27,
             "invoiceNote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus, tortor et feugiat fringilla, est metus luctus sem, eget aliquet nunc augue et neque. Proin ac lectus aliquet, pharetra sem non, ultricies nisi. Praesent blandit arcu eget laoreet consectetur. Sed nibh nunc, ullamcorper porttitor egestas vitae, bibendum vel justo. Nunc finibus vitae enim at semper. Fusce porta, magna vel volutpat dictum, justo eros rhoncus sem, feugiat molestie risus lorem non augue. Donec commodo sed eros sed posuere. Vivamus eget elit at magna gravida facilisis. Duis vitae tristique nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porta leo nec euismod elementum. Phasellus mattis eget purus a rutrum. Nulla non imperdiet nisi, sed scelerisque sem.",
             "quantityType": "darab"
-        }
-    ]
-},
-{
+
+        },
+        {
             "id": 2,
             "invoiceNumber": "BK-20221-10",
             "invoiceDate": "2021. 10. 21.",
@@ -174,5 +173,5 @@
             "myCompanyTel": "23658974"
 
         }
-    ]
+    ],
 }
