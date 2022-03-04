@@ -25,4 +25,154 @@
             "quantityType": "darab"
         }
     ]
+},
+{
+            "id": 2,
+            "invoiceNumber": "BK-20221-10",
+            "invoiceDate": "2021. 10. 21.",
+            "invoiceDeadlineDate": "2021. 11. 21.",
+            "netPrice": "89 009 999",
+            "grossPrice": "979 000",
+            "selected": false,
+            "isActive": false,
+            "invoiceID": 1,
+            "companies": [{
+                "id": 1,
+                "customerName": "Budapesti Közlekedési Vállalat",
+                "customerTaxNumber": "375622431-1-21",
+                "customerCountry": "HU",
+                "customerZip": "8000",
+                "customerCity": "Budapesti",
+                "customerStreet": "Példa utca 44"
+            }],
+            "invoiceItemName": "Eszközbérlés",
+            "quantity": 21,
+            "VAT": 27,
+            "invoiceNote": "Quisque quis auctor eros, facilisis iaculis nunc. Maecenas sed elit at dui eleifend convallis. Integer sit amet quam accumsan orci ullamcorper fringilla. Nam nec tortor in dui suscipit pellentesque vitae eu quam. Aliquam sed diam erat. Fusce fringilla felis id lorem placerat commodo. Nulla vestibulum varius nulla feugiat bibendum. Quisque nisl ligula, dapibus eu quam a, eleifend pretium mauris. Donec elementum iaculis massa, at ultrices erat tempus ut. Duis et elit ut sapien lacinia placerat ut sit amet neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin at pulvinar est, vel varius ligula. ",
+            "quantityType": "darab"
+        },
+        {
+            "id": 3,
+            "invoiceNumber": "dfgd5475z",
+            "invoiceDate": "2021. 10. 20.",
+            "invoiceDeadlineDate": "2020. 02. 12.",
+            "netPrice": "63 800",
+            "grossPrice": "100 535",
+            "selected": false,
+            "isActive": false,
+            "invoiceID": 1,
+            "companies": [{
+                "id": 1,
+                "customerName": "Hajdúböszörményi Kistérségi Ktsz",
+                "customerTaxNumber": "375622431-1-21",
+                "customerCountry": "HU",
+                "customerZip": "8000",
+                "customerCity": "Hajdúböszörményi",
+                "customerStreet": "Példa utca 44"
+            }],
+            "invoiceItemName": "Tanácsadás",
+            "quantity": 3,
+            "VAT": 27,
+            "invoiceNote": "Sed venenatis malesuada sem eu posuere. Nullam venenatis magna nibh, sed tincidunt nunc rhoncus vel. Suspendisse ultricies nibh at diam feugiat finibus. Proin auctor non quam et laoreet. Etiam porttitor blandit neque et pulvinar. Donec vitae tristique sapien. Proin rutrum, ex ac mattis vulputate, lectus odio finibus magna, eu feugiat libero justo sed felis. Cras ut facilisis lectus. Nulla enim arcu, lacinia vitae fermentum eu, porttitor id eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla in turpis mattis, pretium nulla accumsan, luctus urna. Etiam maximus nisl ultrices quam posuere dapibus. Suspendisse a ligula risus. Aenean porta velit elit, sed lobortis tortor placerat vitae. ",
+            "quantityType": "darab"
+        }
+    ],
+    "profile": [{
+        "id": 1,
+        "email": "pelda.peter@gmail.com",
+        "companyName": "Nagyon Hosszú példa Jsonból vállalkozás.kft.",
+        "oldpassword": "oldpassword",
+        "newpassword": "",
+        "accountemail": "valami@valami.hu",
+        "invoiceemail": ""
+    }],
+    "invoicestats": [{
+        "id": 1,
+        "actualMonthlyInvoicesNumber": "522",
+        "actualMonthlyGrossRevenue": "55600900",
+        "totalReceivables": "250000",
+        "overduesReceivables": "130000",
+        "currencyType": "HUF",
+        "monthlyInvoicesNumber1": 32,
+        "monthlyInvoicesNumber2": 73,
+        "monthlyInvoicesNumber3": 1,
+        "monthlyInvoicesNumber4": 2,
+        "monthlyInvoicesNumber5": 28,
+        "monthlyInvoicesNumber6": 54,
+        "monthlyInvoicesNumber7": 100,
+        "monthlyInvoicesNumber8": 32,
+        "overduesReceivables1": null,
+        "overduesReceivables2": null,
+        "overduesReceivables3": 100,
+        "overduesReceivables4": null,
+        "overduesReceivables5": null,
+        "overduesReceivables6": 120,
+        "overduesReceivables7": null,
+        "overduesReceivables8": 130,
+        "monthlyGrossRevenue1": 560,
+        "monthlyGrossRevenue2": 960,
+        "monthlyGrossRevenue3": 0,
+        "monthlyGrossRevenue4": 100,
+        "monthlyGrossRevenue5": 430,
+        "monthlyGrossRevenue6": 830,
+        "monthlyGrossRevenue7": 1532,
+        "monthlyGrossRevenue8": 560,
+        "year": 2021,
+        "monthname1": "dec",
+        "monthname2": "jan",
+        "monthname3": "feb",
+        "monthname4": "már",
+        "monthname5": "ápr",
+        "monthname6": "máj",
+        "monthname7": "jún",
+        "monthname8": "júl"
+    }],
+    "myCompanies": [{
+            "selected": "",
+            "companytype": [
+                "Zárt körű részvénytársaság (Rt)",
+                "Kölcsönös felelősségű társaság (Kft)",
+                "Részvénytársaság (Rt)"
+
+            ],
+            "myCompanyID": 1,
+            "myCompanyName": "Én vagyok  tulaj",
+            "myCompanyTAXID": "54322331-1-45",
+            "myCompanyEUTAXID": "445562385",
+            "myCompanyBankAccountNo": "HUF 1176311939880538",
+            "myBankName": "Raiffeisen Bank",
+            "myCompanyCity": "Budapest",
+            "myCompanyZip": "1123",
+            "myCompanyStreet": "Villásreggeli u. 3, 1.em.1.",
+            "myCompanyMailingCity": "Budapest",
+            "myCompanyMailingZip": "1885",
+            "myCompanyMailingStreet": "postacím u. 15",
+            "myCompanyEmail": "ceg1@mail.com",
+            "myCompanyTel": "12364598"
+        },
+        {
+            "selected": "",
+            "companytype": [
+                "Zárt körű részvénytársaság (Rt)",
+                "Kölcsönös felelősségű társaság (Kft)",
+                "Részvénytársaság2(Rt2)"
+
+            ],
+            "myCompanyID": 2,
+            "myCompanyName": "Cégem 2",
+            "myCompanyTAXID": "50000000-1-45",
+            "myCompanyEUTAXID": "440000000",
+            "myCompanyBankAccountNo": "HUF 1184311939880538",
+            "myBankName": "OTP Bank",
+            "myCompanyCity": "Nyregyháza Sóstó-Külterület",
+            "myCompanyZip": "8062",
+            "myCompanyStreet": "Kovács Béla u. 12.",
+            "myCompanyMailingCity": "Szeged",
+            "myCompanyMailingZip": "3056",
+            "myCompanyMailingStreet": "másik cím u. 30",
+            "myCompanyEmail": "ceg2@mail.com",
+            "myCompanyTel": "23658974"
+
+        }
+    ]
 }
