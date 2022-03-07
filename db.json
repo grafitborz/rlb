@@ -147,7 +147,8 @@
             "myCompanyMailingZip": "1885",
             "myCompanyMailingStreet": "postacím u. 15",
             "myCompanyEmail": "ceg1@mail.com",
-            "myCompanyTel": "12364598"
+            "myCompanyTel": "12364598",
+        "default:true
         },
         {
             "selected": "",
@@ -170,7 +171,8 @@
             "myCompanyMailingZip": "3056",
             "myCompanyMailingStreet": "másik cím u. 30",
             "myCompanyEmail": "ceg2@mail.com",
-            "myCompanyTel": "23658974"
+            "myCompanyTel": "23658974",
+        "default:false
 
         }
     ]
