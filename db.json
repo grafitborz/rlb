@@ -148,7 +148,7 @@
             "myCompanyMailingStreet": "postacím u. 15",
             "myCompanyEmail": "ceg1@mail.com",
             "myCompanyTel": "12364598",
-        "default:true
+        "default":true
         },
         {
             "selected": "",
@@ -172,7 +172,7 @@
             "myCompanyMailingStreet": "másik cím u. 30",
             "myCompanyEmail": "ceg2@mail.com",
             "myCompanyTel": "23658974",
-        "default:false
+        "default":false
 
         }
     ]
